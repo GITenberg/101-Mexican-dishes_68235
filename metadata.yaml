@@ -6,7 +6,12 @@ contributor:
     alias: Southworth, May Elizabeth
     gutenberg_agent_id: '43045'
     url: http://www.gutenberg.org/2009/agents/43045
+covers:
+- cover_type: archival
+  image_path: 68235-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68235#101-Mexican-dishes
 gutenberg_issued: '2022-06-04'
 identifiers:
   gutenberg: '68235'
